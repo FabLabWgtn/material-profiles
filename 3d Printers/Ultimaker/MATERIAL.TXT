@@ -1,0 +1,44 @@
+;Ultimaker 2
+[material]
+name=PLA_210
+temperature=210
+bed_temperature=60
+fan_speed=100
+flow=100
+diameter=2.85
+
+;Dimond Age
+[material]
+name=PLA_190
+temperature=190
+bed_temperature=60
+fan_speed=100
+flow=100
+diameter=2.85
+
+;Ultimaker 2
+[material]
+name=ABS
+temperature=260
+bed_temperature=90
+fan_speed=50
+flow=107
+diameter=2.85
+
+;Ultimaker 2
+[material]
+name=UPET
+temperature=250
+bed_temperature=60
+fan_speed=50
+flow=100
+diameter=2.85
+
+;NinjaTex (untested)
+[material]
+name=NinjaFlx
+temperature=225
+bed_temperature=40
+fan_speed=50
+flow=100
+diameter=2.85
