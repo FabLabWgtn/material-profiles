@@ -34,7 +34,7 @@ fan_speed=50
 flow=100
 diameter=2.85
 
-;NinjaTex (untested)
+;NinjaFlex
 [material]
 name=NinjaFlx
 temperature=225
