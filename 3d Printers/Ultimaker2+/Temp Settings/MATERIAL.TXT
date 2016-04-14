@@ -1,0 +1,55 @@
+;Ultimaker 2
+[material]
+name=PLA_210
+temperature=210
+temperature_0.40=210
+temperature_0.25=195
+temperature_0.60=230
+temperature_0.80=240
+temperature_1.00=240
+bed_temperature=60
+fan_speed=100
+flow=100
+diameter=2.85
+
+;Dimond Age
+[material]
+name=PLA_190
+temperature=190
+temperature_0.40=190
+temperature_0.25=176
+temperature_0.60=208
+temperature_0.80=217
+temperature_1.00=217
+bed_temperature=60
+fan_speed=100
+flow=100
+diameter=2.85
+
+;Ultimaker 2
+[material]
+name=ABS
+temperature=260
+temperature_0.40=255
+temperature_0.25=245
+temperature_0.60=260
+temperature_0.80=260
+temperature_1.00=260
+bed_temperature=90
+fan_speed=100
+flow=107
+diameter=2.85
+
+;Ultimaker 2
+[material]
+name=CPE
+temperature=255
+temperature_0.40=255
+temperature_0.25=245
+temperature_0.60=260
+temperature_0.80=260
+temperature_1.00=260
+bed_temperature=60
+fan_speed=50
+flow=100
+diameter=2.85
