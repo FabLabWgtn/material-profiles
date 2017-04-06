@@ -16,6 +16,15 @@ fan_speed=100
 flow=100
 diameter=2.85
 
+;MindKits GlowFill
+[material]
+name=GlowFill
+temperature=195
+bed_temperature=50
+fan_speed=100
+flow=100
+diameter=2.85
+
 ;Ultimaker 2
 [material]
 name=ABS
