@@ -4,3 +4,4 @@ Machine and material settings for:
 [Universal laser ILS12.150D](https://www.ulsinc.com/)  
 [Shopbot PRSstandard](http://www.shopbottools.com/mProducts/prSstandard.htm)  
 Roland [MDX-40A](https://www.rolanddga.com/products/3d/mdx-40a-benchtop-cnc-mill)  
+Roland [MDX-540](https://www.rolanddga.com/support/products/milling/modela-pro-ii-mdx-540-3d-milling-machine)  
