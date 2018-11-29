@@ -81,3 +81,18 @@ bed_temperature=60
 fan_speed=50
 flow=100
 diameter=2.85
+
+;TPU 95
+[material]
+name=TPU_95
+temperature=235
+temperature_0.40=235
+temperature_0.25=235
+temperature_0.60=235
+temperature_0.80=235
+temperature_1.00=235
+bed_temperature=70
+fan_speed=50
+flow=100
+diameter=2.85
+
