@@ -12,11 +12,11 @@ fan_speed=100
 flow=100
 diameter=2.85
 
-;Dimond Age PLA
+;Diamond Age PLA
 [material]
-name=PLA_190
-temperature=190
-temperature_0.40=190
+name=PLA_195
+temperature=195
+temperature_0.40=195
 temperature_0.25=176
 temperature_0.60=208
 temperature_0.80=217

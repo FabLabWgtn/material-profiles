@@ -1,0 +1,108 @@
+<ns0:fdmmaterial xmlns:ns0="http://www.ultimaker.com/material" version="1.3">
+  <ns0:metadata>
+    <ns0:name>
+      <ns0:brand>Fab Lab Wgtn</ns0:brand>
+      <ns0:material>PLA</ns0:material>
+      <ns0:color>Glow</ns0:color>
+      <ns0:label>PLA - GlowFill</ns0:label>
+    </ns0:name>
+    <ns0:version>2</ns0:version>
+    <ns0:description />
+    <ns0:compatible>True</ns0:compatible>
+    <ns0:color_code>#fcff3e</ns0:color_code>
+    <ns0:adhesion_info />
+    <ns0:GUID>506c9f0d-e3aa-4bd4-b2d2-23e2425b1aa9</ns0:GUID>
+  </ns0:metadata>
+  <ns0:properties>
+    <ns0:density>1.32</ns0:density>
+    <ns0:diameter>2.85</ns0:diameter>
+  </ns0:properties>
+  <ns0:settings>
+    <ns0:setting key="standby temperature">150</ns0:setting>
+    <ns0:setting key="heated bed temperature">50.0</ns0:setting>
+    <ns0:setting key="print temperature">195.0</ns0:setting>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Go" />
+      <ns0:setting key="standby temperature">150</ns0:setting>
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:setting key="processing temperature graph">
+                </ns0:setting>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended" />
+      <ns0:setting key="standby temperature">150</ns0:setting>
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:setting key="processing temperature graph">
+                </ns0:setting>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 3 Extended" />
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:setting key="print cooling">100</ns0:setting>
+      <ns0:hotend id="BB 0.4">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="AA 0.4">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 2+" />
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:hotend id="0.8 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.25 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.6 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.4 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+        <ns0:setting key="standby temperature">150.0</ns0:setting>
+        <ns0:setting key="print temperature">195.0</ns0:setting>
+        <ns0:setting key="heated bed temperature">50.0</ns0:setting>
+      </ns0:hotend>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended+" />
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:hotend id="0.25 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.8 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.4 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="0.6 mm">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 2" />
+      <ns0:setting key="standby temperature">150</ns0:setting>
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:setting key="processing temperature graph">
+                </ns0:setting>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker 3" />
+      <ns0:setting key="print temperature">195</ns0:setting>
+      <ns0:setting key="print cooling">100</ns0:setting>
+      <ns0:hotend id="AA 0.4">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+      <ns0:hotend id="BB 0.4">
+        <ns0:setting key="hardware compatible">yes</ns0:setting>
+      </ns0:hotend>
+    </ns0:machine>
+    <ns0:machine>
+      <ns0:machine_identifier manufacturer="Ultimaker" product="Ultimaker Original" />
+      <ns0:setting key="standby temperature">150</ns0:setting>
+      <ns0:setting key="print temperature">195</ns0:setting>
+    </ns0:machine>
+  </ns0:settings>
+</ns0:fdmmaterial>
